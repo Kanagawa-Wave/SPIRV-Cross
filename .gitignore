@@ -29,3 +29,8 @@
 
 # Running tests leaves *.spv files in the root directory.
 *.spv
+
+bin
+bin-int
+
+*.vcxproj
